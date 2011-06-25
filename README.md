@@ -1,1 +1,4 @@
-Framework/boilerplate for writing mobile+web interactive story games.
+# Note trainer app
+
+Credits:
+f&g-clef found in public domain clipart repository

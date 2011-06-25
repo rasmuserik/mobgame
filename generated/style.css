@@ -1,0 +1,61 @@
+#game {
+  display: none;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+#screen {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+#screen .topright {
+  top: 0px;
+  right: 0px;
+  position: absolute;
+}
+#screen .stdtext {
+  margin: 5px;
+}
+#screen .button0 {
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  background-color: #ffffff;
+  position: absolute;
+  margin: 0px;
+  padding: 5px;
+  bottom: 5px;
+  right: 5px;
+  height: 30px px;
+  border: solid;
+  border-width: 1px;
+}
+#screen .button1 {
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  background-color: #ffffff;
+  position: absolute;
+  margin: 0px;
+  padding: 5px;
+  bottom: 41px;
+  right: 5px;
+  height: 30px px;
+  border: solid;
+  border-width: 1px;
+}
+#screen .button2 {
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  background-color: #ffffff;
+  position: absolute;
+  margin: 0px;
+  padding: 5px;
+  bottom: 77px;
+  right: 5px;
+  height: 30px px;
+  border: solid;
+  border-width: 1px;
+}
